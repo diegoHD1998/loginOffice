@@ -1,0 +1,46 @@
+body{
+    background: url(../img/trabajo.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.caja{
+    margin: 0 auto;
+    margin-top: 80px;
+
+}
+
+.modal-content{
+    background-color: #3b4652;
+    opacity: .95;
+    box-shadow: 0px 0px 3px #848484;
+}
+
+.user-imagen{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.user-imagen img{
+    height: 150px;
+    width: 150px;
+    box-shadow: 0px 0px 3px #848484;
+    border-radius: 49%;
+}
+.texto{
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.boton1{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.icon{
+    position: absolute;
+    left: 25px;
+    margin-top: 6px;
+    font-size: 24px;
+}
